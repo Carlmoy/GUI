@@ -1,9 +1,0 @@
-I have made this version to only show the GUI I designed so that code can be added.
-I left the "Play Again" button visible so that we can all see what it does and it will be configured after we have coded the output to the user.
-
-Some of the resources I used to get this far you may find helpful:
-https://netbeans.org/kb/docs/java/gui-image-display.html
-https://www.youtube.com/user/iamravikk/playlists
-https://moodle.ncirl.ie/course/view.php?id=287
-https://www.youtube.com/watch?v=mGksBTFehYo&list=PLXrXQU5J0EGy-UuzAwY2J7BrPWKT49Kli
-
