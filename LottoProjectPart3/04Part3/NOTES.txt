@@ -1,0 +1,7 @@
+Worked like crazy on this one. I have the data being saved and the 're-use data' working to allow the user to click a button and automatically enter the saved numbers into the Text Fields.
+
+I need some help with the 'view' data entered. It is not showing when the user requests it but the numbers can be re-entered. Not sure what I have done wrong but need to stop working and rest now, 12 hours on d trot is enough for me..
+
+It is nowhere near finished but tried to get a head-start on it to allow us time to complete it soon and work on our other projects.
+
+See what you think guys and let me know if you have any suggestions how to fix the bad 'links' I have made in the Event Handling.
